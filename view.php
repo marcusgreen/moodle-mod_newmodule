@@ -77,7 +77,7 @@ if ($newmodule->intro) {
 }
 
 // Replace the following lines with you own code.
-echo $OUTPUT->heading('Yay! It works!');
+echo $OUTPUT->heading('Consider it changed!');
 
 // Finish the page.
 echo $OUTPUT->footer();
